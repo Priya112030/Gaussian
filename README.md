@@ -13,7 +13,7 @@ Step1 : Import the numpy module to use the built-in functions for calculation
 
 Step 2: Prepare the lists from each linear equations and assign in np.array()
 
-Step 3: Using the np.linalg.solve(), we can find the solutions.
+Step 3: Using the np.zeros() and seprate them and use it in the for loops so we can find the solutions.
 
 Step 4: End the program
 
